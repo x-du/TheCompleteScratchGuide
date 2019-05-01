@@ -48,6 +48,8 @@
 
 ## Scratch Book Reviews
 
+* [Coding Projects in Scratch](scratch-book-reviews/coding-projects-in-scratch.md)
+
 ## Scratch Projects
 
 * [Animation](scratch-projects/animation/README.md)
