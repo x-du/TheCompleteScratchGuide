@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About This Guide](README.md)
-* [About the Author](about-the-author.md)
+* [About the Authors](about-the-author.md)
 * [Topics Covered in This Guide](0_toc.md)
 * [Acknowledgement](untitled.md)
 * [Version History](version-history.md)
