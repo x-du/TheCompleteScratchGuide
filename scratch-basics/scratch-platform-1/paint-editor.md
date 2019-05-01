@@ -36,6 +36,16 @@ When converting a vector image to bitmap, any objects that extend off the canvas
 
 ## Color Palette
 
+Scratch 3.0 doesn't support RGB \(Red Green Blue\) color picker any more.  Scratch 3.0 uses an [HSV](https://en.wikipedia.org/wiki/HSL_and_HSV) \(hue, saturation, value\) color picker. 
+
+The color palette supports the following values:
+
+* Color
+* Saturation
+* Brightness
+
+![](../../.gitbook/assets/screenshot-2019-04-30-21.50.31.png)
+
 {% embed url="https://en.scratch-wiki.info/wiki/Color\_Palette" %}
 
 

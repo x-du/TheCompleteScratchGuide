@@ -24,11 +24,11 @@ A **costume** is one out of possibly many "frames" or different looks/appearance
 
 
 
-## Blocks\(Code\)
+## Blocks \(Code\)
 
 Blocks are puzzle-piece shapes that are used to create code in Scratch. The blocks connect to each other vertically like a jigsaw puzzle, where each data type \(hat, stack, reporter, boolean, or cap\) has its own shape and a specially shaped slot for it to be inserted into, which prevents syntax errors. Series of connected blocks are called scripts.
 
-There are ten categories of blocks: Motion, Looks, Sound, Lists, Events, Control, Sensing, Operators, Variables, and My Blocks. Only nine of these are shown in the Block Palette.
+There are ten categories of blocks: **Motion**, **Looks, Sound, Lists, Events, Control, Sensing, Operators, Variables,** and **My Blocks**. Only nine of these are shown in the Block Palette. The last category is **Extensions**.
 
 ![Categories of Blocks](../../.gitbook/assets/screenshot-2019-04-15-23.27.01.png)
 
@@ -36,11 +36,21 @@ There are ten categories of blocks: Motion, Looks, Sound, Lists, Events, Control
 
 {% embed url="https://en.scratch-wiki.info/wiki/Blocks" %}
 
+## Extensions
 
+**Scratch Extensions** make it possible to connect Scratch projects with external hardware \(such as [LEGO WeDo](https://en.scratch-wiki.info/wiki/LEGO_Education_WeDo_Robotics_Kit) or micro:bit\), sources of information on the web \(such as Google Translate and Amazon Text to Speech\), or blocks allowing for more advanced functionality.  
+
+To load an extension, click the icon in the bottom-left hand corner of the screen and select an extension.
+
+![](../../.gitbook/assets/screenshot-2019-04-30-21.40.20.png)
+
+### More about Extensions
+
+{% embed url="https://en.scratch-wiki.info/wiki/Scratch\_Extension" %}
 
 ## Stage
 
-The stage is the background of the project. A stage can have blocks\(code\), backdrops and sounds.
+The stage is the background of the project. A stage can have blocks \(code\), backdrops and sounds.
 
 ![](../../.gitbook/assets/screenshot-2019-04-16-22.48.33.png)
 
