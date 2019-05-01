@@ -5,8 +5,6 @@
 * [Topics Covered in This Guide](0_toc.md)
 * [Acknowledgement](untitled.md)
 * [Version History](version-history.md)
-* [Untitled](untitled-1.md)
-* [Untitled](untitled-2.md)
 
 ## Scratch Basics
 
