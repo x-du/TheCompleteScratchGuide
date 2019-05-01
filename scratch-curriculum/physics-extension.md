@@ -14,6 +14,8 @@ Please be aware that:
 
 ## Add Physics Extension 
 
+Click the **add extension** image ![](../.gitbook/assets/screenshot-2019-04-30-22.14.52.png) at the bottom left. Select "Box2D" extension made by Griffpatch. 
+
 ![](../.gitbook/assets/2019-04-27-13.31.43.gif)
 
 You should see this: 
@@ -89,6 +91,8 @@ How to use the _.sb3_ file?  The _.sb3_ file is the Scratch 3 project file. It c
 ## Angry Bird Project
 
 {% file src="../.gitbook/assets/angry-bird.sb3" caption="Angry Bird Project" %}
+
+![](../.gitbook/assets/2019-04-30-22.24.28.gif)
 
 ## Griffpatch's Video
 

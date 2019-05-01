@@ -36,7 +36,6 @@
   * [Animate an Adventure Game](scratch-basics/scratch-tutorials/animate-an-adventure-game.md)
   * [Create Animation that talks](scratch-basics/scratch-tutorials/creating-animation-that-talks.md)
   * [Video Sensing](scratch-basics/scratch-tutorials/video-sensing.md)
-* [Untitled](scratch-basics/untitled.md)
 
 ## Scratch Curriculum
 
@@ -46,7 +45,8 @@
 * [Platformer Tutorial by Griffpatch](scratch-curriculum/platform-tutorial-by-griffpatch.md)
 * [Zombie Cube Escape by Griffpatch](scratch-curriculum/zombie-cube-escape-by-griffpatch.md)
 * [Physics Extension](scratch-curriculum/physics-extension.md)
-* [Scratch Book Review](scratch-curriculum/scratch-book-review.md)
+
+## Scratch Book Reviews
 
 ## Scratch Projects
 
@@ -69,10 +69,8 @@
   * [Let's snow](scratch-projects/simulations/lets-snow.md)
   * [Fireworks](scratch-projects/simulations/fireworks.md)
 * [Painting](scratch-projects/painting.md)
-* [Math Games](scratch-projects/math-games/README.md)
-  * [Untitled](scratch-projects/math-games/untitled.md)
+* [Math Games](scratch-projects/math-games.md)
 * [Extensions](scratch-projects/extensions.md)
-* [Untitled](scratch-projects/untitled.md)
 
 ## Computer Science in Scratch
 

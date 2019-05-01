@@ -1,12 +1,6 @@
----
-description: >-
-  Theme-based projects by Google's CS first.
-  https://csfirst.withgoogle.com/c/cs-first/en/curriculum.html
----
-
 # CS first by Google
 
-
+Theme-based projects by Google's CS first. [https://csfirst.withgoogle.com/c/cs-first/en/curriculum.html](https://csfirst.withgoogle.com/c/cs-first/en/curriculum.html)
 
 | Curriculum | Difficulty | Hours | Link |
 | :--- | :--- | :--- | :--- |
