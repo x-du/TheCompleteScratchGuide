@@ -82,7 +82,15 @@ How to use the _.sb3_ file?  The _.sb3_ file is the Scratch 3 project file. It c
 
 ![](../.gitbook/assets/screenshot-2019-04-28-14.50.04.png)
 
+### Create a Ball
 
+![](../.gitbook/assets/screenshot-2019-05-02-22.02.47.png)
+
+![](../.gitbook/assets/screenshot-2019-05-02-22.03.04.png)
+
+### The Final Project
+
+{% file src="../.gitbook/assets/polygon.sb3" caption="Polygon" %}
 
 ![](../.gitbook/assets/2019-04-28-14.45.10.gif)
 
