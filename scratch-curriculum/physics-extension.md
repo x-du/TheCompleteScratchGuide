@@ -100,6 +100,12 @@ How to use the _.sb3_ file?  The _.sb3_ file is the Scratch 3 project file. It c
 
 ![](../.gitbook/assets/2019-05-02-22.40.43.gif)
 
+## Dominos
+
+![](../.gitbook/assets/2019-05-04-19.55.06.gif)
+
+{% file src="../.gitbook/assets/dominos.sb3" %}
+
 ## Angry Bird Project
 
 {% file src="../.gitbook/assets/angry-bird.sb3" caption="Angry Bird Project" %}
