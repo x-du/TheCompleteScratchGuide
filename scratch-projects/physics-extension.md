@@ -112,6 +112,14 @@ How to use the _.sb3_ file?  The _.sb3_ file is the Scratch 3 project file. It c
 
 ![](../.gitbook/assets/2019-04-30-22.24.28.gif)
 
+## Spinning Cat
+
+{% file src="../.gitbook/assets/spin-cat.sb3" %}
+
+![](../.gitbook/assets/2019-05-05-19.41.28.gif)
+
+
+
 ## Griffpatch's Video
 
 {% embed url="https://www.youtube.com/watch?v=WzFhOlY7Ul8" %}
