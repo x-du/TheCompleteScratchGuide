@@ -42,13 +42,6 @@
 * [CS first by Google](scratch-curriculum/cs-first-by-google.md)
 * [Creative Computing by Harvard University](scratch-curriculum/creative-computing-by-harvard-university.md)
 * [Scratch Game Programming by Al Sweigart](scratch-curriculum/scratch-game-programming-by-al-sweigart.md)
-* [Platformer Tutorial by Griffpatch](scratch-curriculum/platform-tutorial-by-griffpatch.md)
-* [Zombie Cube Escape by Griffpatch](scratch-curriculum/zombie-cube-escape-by-griffpatch.md)
-* [Physics Extension](scratch-curriculum/physics-extension.md)
-
-## Scratch Book Reviews
-
-* [Coding Projects in Scratch](scratch-book-reviews/coding-projects-in-scratch.md)
 
 ## Scratch Projects
 
@@ -65,24 +58,25 @@
 * [Games](scratch-projects/games/README.md)
   * [Maze](scratch-projects/games/maze.md)
   * [Pong](scratch-projects/games/pong.md)
-  * [Platformer](scratch-projects/games/platformer.md)
+  * [Platformer](scratch-projects/games/platformer/README.md)
+    * [Zombie Cube Escape by Griffpatch](scratch-projects/games/platformer/zombie-cube-escape-by-griffpatch.md)
+    * [Platformer Tutorial by Griffpatch](scratch-projects/games/platformer/platform-tutorial-by-griffpatch.md)
   * [Flappy Bird](scratch-projects/games/flappy-bird.md)
 * [Simulations](scratch-projects/simulations/README.md)
   * [Let's snow](scratch-projects/simulations/lets-snow.md)
   * [Fireworks](scratch-projects/simulations/fireworks.md)
+* [Physics Extension](scratch-projects/physics-extension.md)
 * [Painting](scratch-projects/painting.md)
 * [Math Games](scratch-projects/math-games.md)
 * [Extensions](scratch-projects/extensions.md)
+
+## Scratch Book Reviews
+
+* [Coding Projects in Scratch](scratch-book-reviews/coding-projects-in-scratch.md)
 
 ## Computer Science in Scratch
 
 * [Untitled](computer-science-in-scratch/untitled.md)
 
 ## Math in Scratch
-
-* [Untitled](math-in-scratch/untitled.md)
-
-## Physics
-
-* [Untitled](physics/untitled.md)
 

@@ -23,7 +23,7 @@ You can see my completed part 1 project at:
 
 Create two costumes, one is small, the other is the real ground.  Switch to the small costume first, then change the size, then switch to the ground. 
 
-![](../.gitbook/assets/screenshot-2019-04-13-21.14.04.png)
+![](../../../.gitbook/assets/screenshot-2019-04-13-21.14.04.png)
 
 ### Variables
 
@@ -41,9 +41,9 @@ In the run-loop:
 2. Prepare the **Level** sprite to move to the opposite direction by changing **SCROLL\_X** and **SCROLL\_Y**.
 3. Tell the **Level** and **Player** to move by sending the **Move Level** message. 
 
-![The Player](../.gitbook/assets/screenshot-2019-04-13-21.20.24.png)
+![The Player](../../../.gitbook/assets/screenshot-2019-04-13-21.20.24.png)
 
-![The Level](../.gitbook/assets/screenshot-2019-04-13-21.45.34.png)
+![The Level](../../../.gitbook/assets/screenshot-2019-04-13-21.45.34.png)
 
 
 
@@ -53,11 +53,11 @@ In Part 2,  we will create a zombie that follows the player.
 
 ### Add a message to move zombie
 
-![](../.gitbook/assets/screenshot-2019-04-13-21.26.52.png)
+![](../../../.gitbook/assets/screenshot-2019-04-13-21.26.52.png)
 
 ### The code for zombie
 
-![Zombie](../.gitbook/assets/screenshot-2019-04-13-21.31.01.png)
+![Zombie](../../../.gitbook/assets/screenshot-2019-04-13-21.31.01.png)
 
 
 
@@ -71,17 +71,17 @@ New Variable:
 
 ### How to create zombies 
 
-![](../.gitbook/assets/screenshot-2019-04-13-22.25.11.png)
+![](../../../.gitbook/assets/screenshot-2019-04-13-22.25.11.png)
 
 ## Part 4
 
 Add game over animation. 
 
-![](../.gitbook/assets/end_game.gif)
+![](../../../.gitbook/assets/end_game.gif)
 
 
 
-![Player](../.gitbook/assets/screenshot-2019-04-13-23.12.05.png)
+![Player](../../../.gitbook/assets/screenshot-2019-04-13-23.12.05.png)
 
 ## Part 5
 
