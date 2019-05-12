@@ -63,6 +63,7 @@
     * [Platformer Tutorial by Griffpatch](scratch-projects/games/platformer/platform-tutorial-by-griffpatch.md)
   * [Flappy Bird](scratch-projects/games/flappy-bird.md)
 * [Simulations](scratch-projects/simulations/README.md)
+  * [The Magic Spot](scratch-projects/simulations/the-magic-spot.md)
   * [Let's snow](scratch-projects/simulations/lets-snow.md)
   * [Fireworks](scratch-projects/simulations/fireworks.md)
 * [Physics Extension](scratch-projects/physics-extension.md)
