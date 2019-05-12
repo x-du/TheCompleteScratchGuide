@@ -40,9 +40,17 @@ Your braining is filling the missing spot with the opposite color of pink.
 
 ![](../../.gitbook/assets/screenshot-2019-05-11-23.10.29.png)
 
+
+
+{% embed url="https://scratch.mit.edu/projects/127320765" %}
+
+
+
 ## More Color Illusion games
 
 {% embed url="http://brainden.com/color-illusions.htm" %}
+
+{% embed url="https://scratch.mit.edu/projects/488476/" %}
 
 
 
