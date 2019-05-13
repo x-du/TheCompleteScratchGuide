@@ -2,6 +2,14 @@
 
 This project shows you an amazing optical illusion.  This project is from the book "[Coding Projects in Scratch](../../scratch-book-reviews/coding-projects-in-scratch.md)" by Jon Woodcock. 
 
+## Create variables
+
+![](../../.gitbook/assets/screenshot-2019-05-12-23.15.11.png)
+
+![](../../.gitbook/assets/screenshot-2019-05-12-23.15.24.png)
+
+ 
+
 ## Create a Spot
 
 Create the a sprite with two costumes. One costume is a pink spot, the other costume is a cross. 
