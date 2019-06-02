@@ -41,7 +41,8 @@
 
 * [CS first by Google](scratch-curriculum/cs-first-by-google.md)
 * [Creative Computing by Harvard University](scratch-curriculum/creative-computing-by-harvard-university.md)
-* [Scratch Game Programming by Al Sweigart](scratch-curriculum/scratch-game-programming-by-al-sweigart.md)
+* [Scratch Game Programming by Al Sweigart](scratch-curriculum/scratch-game-programming-by-al-sweigart/README.md)
+  * [Snake](scratch-curriculum/scratch-game-programming-by-al-sweigart/snake.md)
 
 ## Scratch Projects
 
