@@ -43,6 +43,7 @@
 * [Creative Computing by Harvard University](scratch-curriculum/creative-computing-by-harvard-university.md)
 * [Scratch Game Programming by Al Sweigart](scratch-curriculum/scratch-game-programming-by-al-sweigart/README.md)
   * [Snake](scratch-curriculum/scratch-game-programming-by-al-sweigart/snake.md)
+  * [Fruit Ninja](scratch-curriculum/scratch-game-programming-by-al-sweigart/fruit-ninja.md)
 
 ## Scratch Projects
 
