@@ -1,10 +1,8 @@
 # Evaluate your Scratch Level
 
-## Multiple Choice  
 
-Please Select **ALL** correct answers. 
 
-### 1   Which program can help Cat to touch the Apple? Your program should make the Apple say "You Win!".  Cat should stop moving after the Apple says "You Win!". 
+### 1   Which program can help Cat to touch the Apple? Your program should make the Apple say "You Win!".  Cat should stop moving after the Apple says "You Win!".  Please Select **ALL** correct answers. 
 
 ![](../.gitbook/assets/screenshot-2019-09-08-09.44.07.png)
 
@@ -16,7 +14,7 @@ Please Select **ALL** correct answers.
 
 ![](../.gitbook/assets/screenshot-2019-09-08-10.32.19.png)
 
-### 2. Which are the possible value of the following code?
+### 2. Which are the possible value of the following code? Please Select **ALL** correct answers. 
 
 ![](../.gitbook/assets/screenshot-2019-09-08-10.56.28.png)
 
