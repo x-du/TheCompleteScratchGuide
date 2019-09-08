@@ -83,3 +83,7 @@
 
 ## Math in Scratch
 
+## Tests
+
+* [Evaluate your Scratch Level](tests/evaluate-your-scratch-level.md)
+
