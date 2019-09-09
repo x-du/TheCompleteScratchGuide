@@ -50,7 +50,7 @@ Careful! This is a tricky question.
 ### 6. Write Scratch project to draw the following images. 
 
 {% hint style="info" %}
-Use Pin modules. Move, turn and repeat!  Have fun! 
+Use Paint modules. Move, turn and repeat!  Have fun! 
 {% endhint %}
 
 ![](https://lh3.googleusercontent.com/gke4RSZ8-3KZvfuP8OTkpzTtvELGNPzXOcbmAwv5bMZrExurHDLKPi_yIdxfIDpqGg9Jb3_L3rNs-ORa6w253MBCUKj6cQvd485U_Skk7unovq1sTT9v4BOpaiYVdmduzlb83Kub)![](https://lh6.googleusercontent.com/3-hhDabJ8f3qMkv5-T9Q5ey9xqrVZxnnTaDAdeTRcsTLnWlvd9tzWz7UbpOvQyYzosF0sKCfxBdjj-C7ynJDHKp6S4esHu_yWi3Fr1qePyyIteDT0IuwHsAXWTKiG9mptVs58ZDo)
