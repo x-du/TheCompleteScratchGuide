@@ -2,6 +2,8 @@
 
 * [About This Guide](README.md)
 * [About the Authors](about-the-author.md)
+* [About Scratch](about-scratch.md)
+* [Why Learn Computer Programming](why-learn-computer-programming.md)
 * [Topics Covered in This Guide](0_toc.md)
 * [Acknowledgement](untitled.md)
 * [Version History](version-history.md)
