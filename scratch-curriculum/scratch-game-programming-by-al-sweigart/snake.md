@@ -55,7 +55,9 @@ Add an "Apple" sprite.
 
 ![](../../.gitbook/assets/screenshot-2019-06-01-21.59.53.png)
 
-## Add a Backdrop
+{% embed url="https://scratch.mit.edu/projects/284048766/" %}
+
+
 
 
 

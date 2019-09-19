@@ -43,6 +43,8 @@
 
 * [CS first by Google](scratch-curriculum/cs-first-by-google.md)
 * [Creative Computing by Harvard University](scratch-curriculum/creative-computing-by-harvard-university.md)
+* [BootUp](scratch-curriculum/bootup.md)
+* [Code.Org](scratch-curriculum/code.org.md)
 * [Scratch Game Programming by Al Sweigart](scratch-curriculum/scratch-game-programming-by-al-sweigart/README.md)
   * [Snake](scratch-curriculum/scratch-game-programming-by-al-sweigart/snake.md)
   * [Fruit Ninja](scratch-curriculum/scratch-game-programming-by-al-sweigart/fruit-ninja.md)
@@ -74,6 +76,7 @@
 * [Painting](scratch-projects/painting.md)
 * [Math Games](scratch-projects/math-games.md)
 * [Extensions](scratch-projects/extensions.md)
+* [Untitled](scratch-projects/untitled.md)
 
 ## Scratch Book Reviews
 
