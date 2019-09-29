@@ -46,6 +46,7 @@
 * [BootUp](scratch-curriculum/bootup.md)
 * [Code.Org](scratch-curriculum/code.org.md)
 * [Scratch Game Programming by Al Sweigart](scratch-curriculum/scratch-game-programming-by-al-sweigart/README.md)
+  * [Rainbow Lines in Space](scratch-curriculum/scratch-game-programming-by-al-sweigart/rainbow-lines-in-space.md)
   * [Snake](scratch-curriculum/scratch-game-programming-by-al-sweigart/snake.md)
   * [Fruit Ninja](scratch-curriculum/scratch-game-programming-by-al-sweigart/fruit-ninja.md)
 
