@@ -59,6 +59,7 @@
   * [It is alive](scratch-projects/animation/it-is-alive.md)
   * [Music Video](scratch-projects/animation/music-video.md)
 * [Geometry and Spirals](scratch-projects/1./README.md)
+  * [Fractals](scratch-projects/1./fractals.md)
   * [Ploygon](scratch-projects/1./ploygon.md)
   * [Spiral](scratch-projects/1./spiral.md)
   * [Crazy Spiral](scratch-projects/1./crazy-spiral.md)
