@@ -1,5 +1,7 @@
 # Fractals
 
+![](../../.gitbook/assets/fractalsnowflake.jpg)
+
 ## What is Fractals?
 
 Basically fractal is the never ending pattern. 
