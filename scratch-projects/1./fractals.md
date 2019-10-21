@@ -26,15 +26,16 @@ Create Fractal Tree
 
 ![](../../.gitbook/assets/screenshot-2019-10-19-20.14.12.png)
 
-### Tree More
+### Try More
 
 * Change the angle
 * Create a different leaf
 * Create more branches
+* Add some randomness 
 * Make a broccoli 
 * Make your own Fractal Tree
 
-Can you find more things in nature are fractals?
+Can you find more things in nature are fractals? Hint: leaves, rivers, feathers, etc.
 
 
 
