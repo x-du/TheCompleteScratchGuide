@@ -68,6 +68,7 @@
   * [Maze](scratch-projects/games/maze.md)
   * [Pong](scratch-projects/games/pong.md)
   * [Platformer](scratch-projects/games/platformer/README.md)
+    * [A 2D Platform Game](scratch-projects/games/platformer/a-2d-platform-game.md)
     * [Zombie Cube Escape by Griffpatch](scratch-projects/games/platformer/zombie-cube-escape-by-griffpatch.md)
     * [Platformer Tutorial by Griffpatch](scratch-projects/games/platformer/platform-tutorial-by-griffpatch.md)
   * [Flappy Bird](scratch-projects/games/flappy-bird.md)
