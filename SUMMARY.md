@@ -80,7 +80,7 @@
 * [Painting](scratch-projects/painting.md)
 * [Math Games](scratch-projects/math-games.md)
 * [Extensions](scratch-projects/extensions.md)
-* [Untitled](scratch-projects/untitled.md)
+* [Hour of Code](scratch-projects/untitled.md)
 
 ## Scratch Book Reviews
 
