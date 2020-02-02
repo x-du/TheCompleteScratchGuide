@@ -1,4 +1,4 @@
-# Platformer Tutorial by Griffpatch
+# Scrolling Platformer Tutorial by Griffpatch
 
 Griffpatch \(famous scratcher\) created a series of 8 video tutorials on youtube. 
 
