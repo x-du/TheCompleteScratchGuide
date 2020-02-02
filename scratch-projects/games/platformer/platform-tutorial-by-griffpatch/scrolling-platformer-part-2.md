@@ -4,6 +4,12 @@ description: We will learn how to add gravity and jumping to Player sprite.
 
 # Scrolling Platformer Part 2
 
+## 
+
+{% embed url="https://www.youtube.com/watch?v=EKJ3RvjpyF4&t=239s" %}
+
+
+
 ## Variables
 
 * sy:  Speed Y \(local\)
