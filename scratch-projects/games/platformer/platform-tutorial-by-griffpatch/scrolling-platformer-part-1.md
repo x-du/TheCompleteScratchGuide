@@ -4,17 +4,30 @@
 
 ## Setting Up
 
-1. Remix: griffpatch's assets for Scrolling Platformer project. [https://scratch.mit.edu/projects/270939991](https://scratch.mit.edu/projects/270939991)
-2. Rename the **Assets** Sprite to **Player.**  Delete **Splash** sprite. 
-3. Variables for Player sprite. 
-   1. LEVEL   : \(Global\)
-   2. SCROLL X: \(Global\)
-   3. SCROLL Y: \(Global\)
-   4. x: \(local\)
-   5. y: \(local\)
-4. Variables for Platforms:
-   1. x: \(local\)
-   2. y: \(local\)
+Step 1: Remix: griffpatch's assets for Scrolling Platformer project. [https://scratch.mit.edu/projects/270939991](https://scratch.mit.edu/projects/270939991)
+
+Step 2: Rename the **Assets** Sprite to **Player.**  Delete **Splash** sprite. 
+
+Step 3: In **Platformer** Sprite, select the first costume, if it doesn't show, covert it to "bitmap" then covert it back to "Vector". 
+
+![](../../../../.gitbook/assets/2020-02-08-22.19.11.gif)
+
+
+
+Step 4: Create the following variables: 
+
+**Player** sprite**.** 
+
+1. LEVEL   : \(For All Sprites\)
+2. SCROLL X: \(For All Sprites\)
+3. SCROLL Y: \(For All Sprites\)
+4. x: \(For This Sprite only\)
+5. y: \(For This Sprite only\)
+
+**Platforms** sprite
+
+1. x: \(For This Sprite only\)
+2. y: \(For This Sprite only\)
 
 ## Player Sprite
 
