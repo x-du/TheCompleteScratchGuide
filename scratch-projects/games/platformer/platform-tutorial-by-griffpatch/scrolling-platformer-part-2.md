@@ -2,7 +2,7 @@
 description: We will learn how to add gravity and jumping to Player sprite.
 ---
 
-# Scrolling Platformer Part 2
+# Scrolling Platformer Part 2: Gravity
 
 ## 
 
@@ -12,8 +12,8 @@ description: We will learn how to add gravity and jumping to Player sprite.
 
 ## Variables
 
-* sy:  Speed Y \(local\)
-* in air:  \(local\)
+* sy:  Speed Y \(For this sprite only\)
+* in air:  \(For this sprite only\)
 
 ## New Blocks
 
