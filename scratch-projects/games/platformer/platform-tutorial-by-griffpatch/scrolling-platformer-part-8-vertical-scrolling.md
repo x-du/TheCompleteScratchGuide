@@ -2,6 +2,10 @@
 
 Continue from Part 7. 
 
+{% embed url="https://www.youtube.com/watch?v=B\_Og-pFS3jg" %}
+
+
+
 ## Smooth Vertical Scroll
 
 ![](../../../../.gitbook/assets/image%20%2810%29.png)
