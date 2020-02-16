@@ -28,7 +28,7 @@ Duplicate the Platforms Sprites, and draw collectable costume. \(The costume is 
 ## How to know where to put the collectable? 
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../../.gitbook/assets/image%20%2820%29.png)
 
 ## Finished Part 5
 
