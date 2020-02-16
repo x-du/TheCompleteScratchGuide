@@ -75,6 +75,7 @@
       * [Scrolling Platformer Part 2: Gravity](scratch-projects/games/platformer/platform-tutorial-by-griffpatch/scrolling-platformer-part-2.md)
       * [Scrolling Platform Part 3: Platform Detection](scratch-projects/games/platformer/platform-tutorial-by-griffpatch/scrolling-platform-part-3-platform-detection.md)
       * [Scrolling Platformer Part 4:Offscreen Sprite and Player Death](scratch-projects/games/platformer/platform-tutorial-by-griffpatch/scrolling-platformer-part-4-offscreen-spirit-and-player-death.md)
+      * [Scrolling Platformer Part 5: Collectables](scratch-projects/games/platformer/platform-tutorial-by-griffpatch/scrolling-platformer-part-5-collectables.md)
   * [Flappy Bird](scratch-projects/games/flappy-bird.md)
 * [Simulations](scratch-projects/simulations/README.md)
   * [The Magic Spot](scratch-projects/simulations/the-magic-spot.md)
