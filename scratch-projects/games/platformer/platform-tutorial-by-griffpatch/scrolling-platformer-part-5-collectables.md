@@ -22,13 +22,13 @@ Duplicate the Platforms Sprites, and draw collectable costume. \(The costume is 
 
 ![](../../../../.gitbook/assets/image%20%282%29.png)
 
-![](../../../../.gitbook/assets/image%20%283%29.png)
+![](../../../../.gitbook/assets/image%20%284%29.png)
 
 {% hint style="warning" %}
 ## How to know where to put the collectable? 
 {% endhint %}
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2818%29.png)
 
 ## Finished Part 5
 

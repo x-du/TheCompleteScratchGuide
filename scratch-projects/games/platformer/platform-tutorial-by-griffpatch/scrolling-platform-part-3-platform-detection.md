@@ -22,7 +22,7 @@ To preventing moving through block, we will do the similar code as **Change Play
 
 
 
-![](../../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
 
 ## \(Optional\) Climbing slope
 
