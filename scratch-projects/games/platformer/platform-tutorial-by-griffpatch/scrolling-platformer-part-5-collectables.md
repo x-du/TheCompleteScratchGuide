@@ -4,6 +4,10 @@ description: Adding Collectables
 
 # Scrolling Platformer Part 5: Collectables
 
+{% embed url="https://www.youtube.com/watch?v=3BPYvJ6\_TJc" %}
+
+
+
 ## Create Clone At Block
 
 Continue your project, or remix [the finished project of Part 4.](https://scratch.mit.edu/projects/364439571/)
