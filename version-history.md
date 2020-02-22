@@ -2,7 +2,7 @@
 
 | Version | Date | What's New? |
 | :--- | :--- | :--- |
-| 0.01 |  |  |
+| 0.01 |  | I will keep writing it. |
 
 
 
