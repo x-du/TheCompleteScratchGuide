@@ -14,5 +14,15 @@ Continue from Part 7.
 
 
 
+## Finished Project
+
+
+
+{% embed url="https://scratch.mit.edu/projects/364576676/" %}
+
+
+
+
+
 
 
