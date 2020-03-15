@@ -81,6 +81,7 @@
       * [Scrolling Platformer Part 8: Vertical Scrolling](scratch-projects/games/platformer/platform-tutorial-by-griffpatch/scrolling-platformer-part-8-vertical-scrolling.md)
   * [Flappy Bird](scratch-projects/games/flappy-bird.md)
 * [Simulations](scratch-projects/simulations/README.md)
+  * [Rainbow Worms](scratch-projects/simulations/rainbow-worms.md)
   * [The Magic Spot](scratch-projects/simulations/the-magic-spot.md)
   * [Let's snow](scratch-projects/simulations/lets-snow.md)
   * [Fireworks](scratch-projects/simulations/fireworks.md)
