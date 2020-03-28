@@ -80,6 +80,8 @@
       * [Scrolling Platform Part 7: Exit Portal](scratch-projects/games/platformer/platform-tutorial-by-griffpatch/scrolling-platform-part-7-exit-portal.md)
       * [Scrolling Platformer Part 8: Vertical Scrolling](scratch-projects/games/platformer/platform-tutorial-by-griffpatch/scrolling-platformer-part-8-vertical-scrolling.md)
   * [Flappy Bird](scratch-projects/games/flappy-bird.md)
+  * [Board Puzzles](scratch-projects/games/board-puzzles/README.md)
+    * [15-Puzzle](scratch-projects/games/board-puzzles/15-puzzle.md)
 * [Simulations](scratch-projects/simulations/README.md)
   * [Rainbow Worms](scratch-projects/simulations/rainbow-worms.md)
   * [The Magic Spot](scratch-projects/simulations/the-magic-spot.md)
