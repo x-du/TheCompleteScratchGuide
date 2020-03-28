@@ -1,2 +1,2 @@
-# Board Puzzles
+# Puzzle Games
 
