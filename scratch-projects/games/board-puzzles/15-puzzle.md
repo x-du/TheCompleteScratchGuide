@@ -12,8 +12,6 @@ If you want to know how to solve this puzzle, you can check this instruction:
 
 {% embed url="https://www.instructables.com/id/How-To-Solve-The-15-Puzzle/" %}
 
-
-
 ## Game Design
 
 When we design the game we need to think about the following questions?
@@ -76,5 +74,23 @@ You can learn more about the algorithm here:
 2. Swap  the tile next to the empty tile, depends on the arrow key.
 3. Check if the list is sorted. 
 
+## Check if the puzzle is solvable
 
+Half of the random generated puzzles are not solvable. You can check if the puzzle is solvable using inversion counting method. 
+
+{% embed url="https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/" %}
+
+![Check if the puzzle is solvable](../../../.gitbook/assets/screenshot-2020-04-11-23.55.48.png)
+
+## Check Win
+
+If the list is sorted from small number to large number, the puzzle is solved. 
+
+![](../../../.gitbook/assets/screenshot-2020-04-12-00.02.15.png)
+
+## Track the best score
+
+![](../../../.gitbook/assets/screenshot-2020-04-12-00.00.06.png)
+
+## 
 
