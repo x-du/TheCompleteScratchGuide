@@ -87,6 +87,7 @@
   * [The Magic Spot](scratch-projects/simulations/the-magic-spot.md)
   * [Let's snow](scratch-projects/simulations/lets-snow.md)
   * [Fireworks](scratch-projects/simulations/fireworks.md)
+  * [Conway's Game of Life](scratch-projects/simulations/conways-game-of-life.md)
 * [Physics Extension](scratch-projects/physics-extension.md)
 * [Painting](scratch-projects/painting.md)
 * [Math Games](scratch-projects/math-games.md)
