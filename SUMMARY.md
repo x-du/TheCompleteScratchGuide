@@ -67,6 +67,7 @@
 * [Games](scratch-projects/games/README.md)
   * [Maze](scratch-projects/games/maze.md)
   * [Pong](scratch-projects/games/pong.md)
+  * [Video Sensing Pong Game](scratch-projects/games/video-sensing-pong-game.md)
   * [Platformer](scratch-projects/games/platformer/README.md)
     * [A 2D Platform Game](scratch-projects/games/platformer/a-2d-platform-game.md)
     * [Zombie Cube Escape by Griffpatch](scratch-projects/games/platformer/zombie-cube-escape-by-griffpatch.md)

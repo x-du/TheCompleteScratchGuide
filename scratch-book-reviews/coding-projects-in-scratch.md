@@ -1,6 +1,6 @@
 # Coding Projects in Scratch
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%287%29%20%282%29.png)
 
 {% embed url="https://www.amazon.com/Coding-Projects-Scratch-Step-Step/dp/1465477349/ref=dp\_ob\_image\_bk" %}
 

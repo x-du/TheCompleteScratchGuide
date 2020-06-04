@@ -10,7 +10,7 @@
 
 ## Draw Symmetrical Branches
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%288%29%20%281%29.png)
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
@@ -28,7 +28,7 @@
 
 ## Change the variables values to create your own snowflakes
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%285%29%20%281%29.png)
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2810%29%20%281%29.png)
 
