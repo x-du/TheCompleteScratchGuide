@@ -6,7 +6,6 @@
 * [Why Learn Computer Programming](why-learn-computer-programming.md)
 * [Topics Covered in This Guide](0_toc.md)
 * [Acknowledgement](untitled.md)
-* [Version History](version-history.md)
 
 ## Scratch Basics
 
